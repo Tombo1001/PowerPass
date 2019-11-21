@@ -4,4 +4,4 @@ Created to generate passwords and copy to the clipboard.
 
 --
 
-NOTE: This password does not use entropy in the generation of password and could be therefore considered insecure.
+NOTE: This password does not use entropy in the generation of passwords and could be therefore considered insecure.
